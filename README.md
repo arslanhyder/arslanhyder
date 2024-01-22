@@ -1,9 +1,60 @@
-👋 Greetings! I'm Arsalan, a Frontend Software engineer based in Abbottabad, Pakistan.<br><br>I enjoy creating things that live on the internet, whether websites, Mobile applications, or anything in between. My goal is to build products that positively impact people.<br><br>I develop high-quality, reusable/maintainable code in ReactJS/GatsbyJS/NextJS.<br><br>My passion for programming started early at age 15 when I started learning the concepts of basic programming, after a year I got introduced to C language where I started learning the basic concepts of writing basic programs but the more I was learning, the more curious I got, which took me in the depth of programming and started a bachelor of software engineering degree, that opened a new door of learning and knowledge for me.<br><br>I’ve played the role of a senior front-end developer. I’m equally a team player yet enjoy working solo as well, delivering world-class products.<br><br>I can give my best in the following Web Technologies and Areas:<br><br>Front-End:<br>React.js/Next.js/Gatsby.js, HTML/HTML5, CSS/CSS3, JavaScript/TypeScript/ECMAScript, Flexbox, SCSS, Sass, Bootstrap, Bulma, tailwind and Material-UI.<br><br>Frameworks:<br>Next.js, Gatsby.js, React Native<br><br>CMS:<br>Strapi CMS, KeystoneJS, Sanity CMS, and Netlify CMS<br><br>Libraries:<br>React.js, JQuery.js<br><br>Version Control System:<br>GitHub, GitLab<br><br>Software Management tools<br>Slack, JIRA, Asana, Trello, and Basecamp<br><br>Development Deliverables:<br>Website Optimization, Responsive Design, Web Application, RESTful API, eCommerce, Website Development, Website Redesign, and API Integration<br><br>Others:<br>Stripe, Google maps, SendGrid Google Analytics, GraphQL, Algolia
+👋 Greetings! I'm Arsalan, an Expert JavaScript Engineer with a specialized focus on frontend technologies, including React, Next.js, and Gatsby, as well as proficiency across the entire MERN and JAM stack.
 
+Throughout my career, I've dedicated myself to crafting high-quality, maintainable code and delivering exceptional solutions. My journey began at the age of 15, sparking a passion for programming that led me to pursue a Bachelor's degree in Software Engineering.
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/muhammad.a.haider.33) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/arslan_haiider) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/arslan-haider-732146263) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/arslan__hyder) 
+As an Expert JavaScript Engineer, I have played a pivotal role as a senior front-end developer. I excel both as a team player and working independently, consistently delivering world-class products. My expertise spans a wide spectrum of technologies:
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white) ![Apollo-GraphQL](https://img.shields.io/badge/-ApolloGraphQL-311C87?style=for-the-badge&logo=apollo-graphql) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Gatsby](https://img.shields.io/badge/Gatsby-%23663399.svg?style=for-the-badge&logo=gatsby&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![Meteor JS](https://img.shields.io/badge/meteorjs-%23d74c4c.svg?style=for-the-badge&logo=meteor&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white) ![Strapi](https://img.shields.io/badge/strapi-%232E7EEA.svg?style=for-the-badge&logo=strapi&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+Front-End:
+React.js/Next.js/Gatsby.js
+HTML/HTML5, CSS/CSS3
+JavaScript/TypeScript/ECMAScript, Flexbox, SCSS, Sass
+Bootstrap, Bulma, Tailwind, Material-UI
+
+Back-End:
+Node.js
+Express
+Nest.js
+
+Databases:
+MongoDB
+PostgreSQL
+
+Search:
+Elasticsearch
+
+Frameworks:
+Next.js, Gatsby.js, React Native
+
+CMS:
+Strapi CMS, KeystoneJS, Sanity CMS, Netlify CMS
+
+Libraries:
+React.js, JQuery.js
+Storybook (for creating multiple component libraries)
+
+Version Control System:
+GitHub, GitLab
+
+Software Management Tools:
+Slack, JIRA, Asana, Trello, Basecamp
+
+Development Deliverables:
+Website Optimization
+Responsive Design
+Web Application Development
+RESTful API Integration
+eCommerce Solutions
+Website Redesign
+
+Other Skills:
+Stripe Integration
+Google Maps API
+SendGrid, Google Analytics
+GraphQL, Algolia
+
+I am adept at utilizing version control systems like GitHub and GitLab and proficiently manage projects using tools such as Slack, JIRA, Asana, Trello, and Basecamp.
+
+Whether it's optimizing websites, creating responsive designs, developing web applications, integrating APIs, implementing Elasticsearch, or building component libraries using Storybook and deploying them to npm, my goal is to bring a wealth of experience to the table. I've successfully delivered projects involving Stripe, Google Maps, SendGrid, Google Analytics, GraphQL, MongoDB, PostgreSQL, Node.js, Nest.js, Elasticsearch, and npm.
+
+Let's collaborate to bring your vision to life through cutting-edge frontend and backend technologies. I'm committed to delivering exceptional results and contributing to the success of your projects. Looking forward to the opportunity to work together!
 
